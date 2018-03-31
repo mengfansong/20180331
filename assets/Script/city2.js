@@ -29,6 +29,10 @@ cc.Class({
         // },
     },
 
+    goToCity1 : function (){
+
+    },
+
     // LIFE-CYCLE CALLBACKS:
 
     // onLoad () {},
